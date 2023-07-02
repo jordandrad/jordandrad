@@ -3,7 +3,7 @@
 <!--
 **jordandrad/jordandrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 # Hi there! 👋 I'm Jordan
 
 I'm a self-taught iOS developer who gets excited about creating intuitive and user-focused apps. 
@@ -32,4 +32,3 @@ Learning never stops! When I'm not writing code, I'm probably diving into the la
 Whether you have a question or just want to say hi, I'll be happy to hear from you! I'm open to collaborations and always looking forward to meeting new people who are as passionate about tech as I am.
 
 
--->
