@@ -10,7 +10,7 @@ I'm a self-taught iOS developer who gets excited about creating intuitive and us
 
 ## 🎯 My Passion Project
 
-My journey in iOS development led me to create [FocusTime](link-to-FocusTime-app), an app now live on the App Store. It's designed to help users worldwide manage their time effectively and track their progress over time. While working on FocusTime, I mastered Swift, UIKit, CoreData, and RevenueCat to ensure the app is not just functional, but also delightful to use.
+My journey in iOS development led me to create [FocusTime](https://apps.apple.com/us/app/focustime-time-tracker/id1663536754), an app now live on the App Store. It's designed to help users worldwide manage their time effectively and track their progress over time. While working on FocusTime, I mastered Swift, UIKit, CoreData, and RevenueCat to ensure the app is not just functional, but also delightful to use.
 
 ## 🔧 Tech Toolbox
 
