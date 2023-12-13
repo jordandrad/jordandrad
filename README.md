@@ -17,6 +17,7 @@ My journey in iOS development led me to create [FocusTime](https://apps.apple.co
 Here's a bit about what I used in my developer toolbox:
 
 * Swift
+* SwiftUI
 * UIKit
 * CoreData
 * RevenueCat
