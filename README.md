@@ -6,25 +6,8 @@
 Here are some ideas to get you started: -->
 # Hi there! 👋 I'm Jordan
 
-## 🎯 My Passion Project
+My journey in iOS development led me to create [Timella](https://apps.apple.com/us/app/timella-focus-timer/id6474511181), an app now live on the App Store. It's designed to help users worldwide manage their time effectively and track their progress over time. 
 
-My journey in iOS development led me to create [Timella](https://apps.apple.com/us/app/timella-focus-timer/id6474511181), an app now live on the App Store. It's designed to help users worldwide manage their time effectively and track their progress over time. While working on Timella, I mastered Swift, SwiftUI, CoreData, and RevenueCat to ensure the app is not just functional, but also delightful to use.
-
-## 🔧 Tech Toolbox
-
-Here's a bit about what I used in my developer toolbox:
-
-* Swift
-* SwiftUI
-* UIKit
-* CoreData
-* RevenueCat
-* RESTful APIs
-* Mobile design and architectural patterns
-
-## 🌱 Always Growing
-
-Learning never stops! When I'm not writing code, I'm probably diving into the latest tech trends, exploring new development tools, or brainstorming on how to enhance user experience through technology.
 
 ## 🤝 Let's Connect!
 
