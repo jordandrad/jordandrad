@@ -6,8 +6,6 @@
 Here are some ideas to get you started: -->
 # Hi there! 👋 I'm Jordan
 
-I'm a self-taught iOS developer who gets excited about creating intuitive and user-focused apps. 
-
 ## 🎯 My Passion Project
 
 My journey in iOS development led me to create [Timella](https://apps.apple.com/us/app/timella-focus-timer/id6474511181), an app now live on the App Store. It's designed to help users worldwide manage their time effectively and track their progress over time. While working on Timella, I mastered Swift, SwiftUI, CoreData, and RevenueCat to ensure the app is not just functional, but also delightful to use.
