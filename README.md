@@ -6,7 +6,7 @@
 Here are some ideas to get you started: -->
 # Jordan Andrade
 
-iOS Engineer helping people worldwide stay focused and manage their time better.
+iOS Engineer helping people around the world stay focused and manage their time better.
 
 ## Apps
 
